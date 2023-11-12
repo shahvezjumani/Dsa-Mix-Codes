@@ -45,7 +45,7 @@ class Josephus {
             ptr = ptr.next;
         }
 
-        System.out.println("\nLast person left: " + ptr.data);
+        System.out.println(ptr.data);
 
     }
 
